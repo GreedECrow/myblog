@@ -1,15 +1,7 @@
 ---
-title: My First Post
+img: "",
+title: Final Fantasy's whole BGM library
 date: 2023-12-24
 catagory: music
 ---
-
-Lorem ipsum
-
--list
--sdfgsdfg
-
-```js
-if (tim === "cool){
-    
-}```
+It's like Witcher 3 but with machines instead of monsters.

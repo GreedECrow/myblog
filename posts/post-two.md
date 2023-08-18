@@ -1,15 +1,7 @@
 ---
-title: My First Post
+img: "",
+title: Werewolf By Night
 date: 2023-12-24
-catagory: music
+catagory: games
 ---
-
-Lorem ipsum
-
--list
--sdfgsdfg
-
-```js
-if (tim === "cool){
-    
-}```
+Marvel needs to make more films like this.
