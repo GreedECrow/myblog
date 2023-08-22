@@ -1,5 +1,5 @@
+![Werewolves](/public/images/werewolveswithin.jpg)
 ---
-img: "",
 title: Werewolves Within
 date: 2023-12-24
 catagory: film

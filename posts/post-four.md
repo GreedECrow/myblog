@@ -1,5 +1,5 @@
+![SOAD](/public/images/soad.jpg)
 ---
-img: "",
 title: System of a Down
 date: 2023-12-24
 catagory: music

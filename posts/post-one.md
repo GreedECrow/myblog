@@ -1,5 +1,5 @@
+![Final Fantasy Music](/public/images/FFMusic.png)
 ---
-img: "",
 title: Final Fantasy's whole BGM library
 date: 2023-12-24
 catagory: music

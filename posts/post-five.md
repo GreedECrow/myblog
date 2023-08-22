@@ -1,5 +1,5 @@
+![Professor Elemental](/public/images/proffelem.jpg)
 ---
-img: "",
 title: Professor Elemental
 date: 2023-12-24
 catagory: music

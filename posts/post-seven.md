@@ -1,5 +1,5 @@
+![Horizon](/public/images/horizon.jpg)
 ---
-img: "",
 title: Horizon Series
 date: 2023-12-24
 catagory: games

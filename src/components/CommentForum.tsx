@@ -4,7 +4,6 @@ import { useRouter } from "next/navigation";
 import { useTransition } from "react";
 
 export default function CommentForm({ slug }: { slug: string }) {
- 
   const router = useRouter();
 
   const [isPending, startTransition] = useTransition();
@@ -13,7 +12,7 @@ export default function CommentForm({ slug }: { slug: string }) {
     event.preventDefault();
 
     const username = event.target.username.value || "annonymous";
- 
+
     const comment = event.target.comment.value;
 
     const formData = new FormData();
@@ -42,7 +41,13 @@ export default function CommentForm({ slug }: { slug: string }) {
       <br />
       <label htmlFor="comment">Comment</label>
       <br />
-      <textarea name="comment" cols={30} rows={10} className="text-black border-2 border-grey-400" required />
+      <textarea
+        name="comment"
+        cols={30}
+        rows={10}
+        className="text-black border-2 border-grey-400"
+        required
+      />
       <br />
       <br />
       <button type="submit" disabled={isPending}>

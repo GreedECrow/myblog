@@ -1,5 +1,5 @@
+![Werewolf by Night](/public/images/werewolfbynight.png)
 ---
-img: "",
 title: Werewolf By Night
 date: 2023-12-24
 catagory: games
