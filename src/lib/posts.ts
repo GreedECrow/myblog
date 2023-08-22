@@ -11,7 +11,7 @@ export function getPosts() {
 }
 
 export function getPostBySlug(slug: string) {
-  return POSTS.find((post:any) => post.slug === slug);
+  return POSTS.find((post: any) => post.slug === slug);
 }
 
 export function getCategories() {
@@ -19,5 +19,5 @@ export function getCategories() {
 }
 
 export function getPostsByCategory(catslug: string) {
-  return POSTS.filter((post:any) => post.category === catslug);
+  return POSTS.filter((post: any) => post.category === catslug);
 }
