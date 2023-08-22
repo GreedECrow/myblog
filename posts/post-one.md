@@ -1,7 +1,8 @@
-![Final Fantasy Music](/public/images/FFMusic.png)
 ---
 title: Final Fantasy's whole BGM library
 date: 2023-12-24
-catagory: music
+category: music
 ---
+
 It's like Witcher 3 but with machines instead of monsters.
+![Final Fantasy Music](/public/images/FFMusic.png)

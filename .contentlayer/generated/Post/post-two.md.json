@@ -1,0 +1,19 @@
+{
+  "title": "Werewolf By Night",
+  "date": "2023-12-24T00:00:00.000Z",
+  "category": "games",
+  "body": {
+    "raw": "\nMarvel needs to make more films like this.\n![Werewolf by Night](/public/images/werewolfbynight.png)\n",
+    "html": "<p>Marvel needs to make more films like this.\n<img src=\"/public/images/werewolfbynight.png\" alt=\"Werewolf by Night\"></p>"
+  },
+  "_id": "post-two.md",
+  "_raw": {
+    "sourceFilePath": "post-two.md",
+    "sourceFileName": "post-two.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "post-two"
+  },
+  "type": "Post",
+  "slug": "post-two"
+}

@@ -1,4 +1,4 @@
-import { allpost as POSTS } from "contentlayer/generated";
+import { allPosts as POSTS } from "contentlayer/generated";
 
 const CATEGORIES = [
   { name: "Games", catslug: "games" },
@@ -11,7 +11,7 @@ export function getPosts() {
 }
 
 export function getPostBySlug(slug: string) {
-  return POSTS.find((post) => post.slug === slug);
+  return POSTS.find((post:any) => post.slug === slug);
 }
 
 export function getCategories() {
@@ -19,5 +19,5 @@ export function getCategories() {
 }
 
 export function getPostsByCategory(catslug: string) {
-  return POSTS.filter((post) => post.category === catslug);
+  return POSTS.filter((post:any) => post.category === catslug);
 }

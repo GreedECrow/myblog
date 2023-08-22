@@ -1,0 +1,19 @@
+{
+  "title": "Horizon Series",
+  "date": "2023-12-24T00:00:00.000Z",
+  "category": "games",
+  "body": {
+    "raw": "\nThis series has some of the best music of any game series ever.\n![Horizon](/public/images/horizon.jpg)\n",
+    "html": "<p>This series has some of the best music of any game series ever.\n<img src=\"/public/images/horizon.jpg\" alt=\"Horizon\"></p>"
+  },
+  "_id": "post-seven.md",
+  "_raw": {
+    "sourceFilePath": "post-seven.md",
+    "sourceFileName": "post-seven.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "post-seven"
+  },
+  "type": "Post",
+  "slug": "post-seven"
+}

@@ -1,7 +1,7 @@
 "use client";
-import { WEBSITE_URL } from "config";
 import { useRouter } from "next/navigation";
 import { useTransition } from "react";
+import { WEBSITE_URL } from "../../config";
 
 export default function CommentForm({ slug }: { slug: string }) {
   const router = useRouter();
@@ -11,8 +11,10 @@ export default function CommentForm({ slug }: { slug: string }) {
   async function handleFormSubmit(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
 
-    const username = event.target.username.value || "annonymous";
+    //@ts-ignore
 
+    const username = event.target.username.value || "annonymous";
+    //@ts-ignore
     const comment = event.target.comment.value;
 
     const formData = new FormData();
@@ -22,8 +24,9 @@ export default function CommentForm({ slug }: { slug: string }) {
     const options = { body: formData, method: "POST" };
     const res = await fetch(`${WEBSITE_URL}/api/comments/${slug}`, options);
     console.log(res);
-
+//@ts-ignore
     event.target.username.value = "";
+    //@ts-ignore
     event.target.comment.value = "";
 
     startTransition(() => {

@@ -1,0 +1,19 @@
+{
+  "title": "Final Fantasy Series",
+  "date": "2023-12-24T00:00:00.000Z",
+  "category": "games",
+  "body": {
+    "raw": "\nThe best games.\n![Final Fantasy](/public/images/ffstorylogo.webp)\n",
+    "html": "<p>The best games.\n<img src=\"/public/images/ffstorylogo.webp\" alt=\"Final Fantasy\"></p>"
+  },
+  "_id": "post-eight.md",
+  "_raw": {
+    "sourceFilePath": "post-eight.md",
+    "sourceFileName": "post-eight.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "post-eight"
+  },
+  "type": "Post",
+  "slug": "post-eight"
+}

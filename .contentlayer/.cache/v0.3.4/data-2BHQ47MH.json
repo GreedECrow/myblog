@@ -1,0 +1,220 @@
+{
+  "cacheItemsMap": {
+    "post-eight.md": {
+      "document": {
+        "title": "Final Fantasy Series",
+        "date": "2023-12-24T00:00:00.000Z",
+        "category": "games",
+        "body": {
+          "raw": "\nThe best games.\n![Final Fantasy](/public/images/ffstorylogo.webp)\n",
+          "html": "<p>The best games.\n<img src=\"/public/images/ffstorylogo.webp\" alt=\"Final Fantasy\"></p>"
+        },
+        "_id": "post-eight.md",
+        "_raw": {
+          "sourceFilePath": "post-eight.md",
+          "sourceFileName": "post-eight.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-eight"
+        },
+        "type": "Post",
+        "slug": "post-eight"
+      },
+      "documentHash": "1692715133984",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-five.md": {
+      "document": {
+        "title": "Professor Elemental",
+        "date": "2023-12-24T00:00:00.000Z",
+        "category": "music",
+        "body": {
+          "raw": "\nChap hop at it's finest.\n![Professor Elemental](/public/images/proffelem.jpg)\n",
+          "html": "<p>Chap hop at it's finest.\n<img src=\"/public/images/proffelem.jpg\" alt=\"Professor Elemental\"></p>"
+        },
+        "_id": "post-five.md",
+        "_raw": {
+          "sourceFilePath": "post-five.md",
+          "sourceFileName": "post-five.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-five"
+        },
+        "type": "Post",
+        "slug": "post-five"
+      },
+      "documentHash": "1692715138204",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-four.md": {
+      "document": {
+        "title": "System of a Down",
+        "date": "2023-12-24T00:00:00.000Z",
+        "category": "music",
+        "body": {
+          "raw": "\nNever made even one bad song and did the best Legend of Zelda cover.\n\nhttps://youtu.be/eh_j9xrwUb0\n![SOAD](/public/images/soad.jpg)\n",
+          "html": "<p>Never made even one bad song and did the best Legend of Zelda cover.</p>\n<p>https://youtu.be/eh_j9xrwUb0\n<img src=\"/public/images/soad.jpg\" alt=\"SOAD\"></p>"
+        },
+        "_id": "post-four.md",
+        "_raw": {
+          "sourceFilePath": "post-four.md",
+          "sourceFileName": "post-four.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-four"
+        },
+        "type": "Post",
+        "slug": "post-four"
+      },
+      "documentHash": "1692715141634",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-nine.md": {
+      "document": {
+        "title": "Witcher 3",
+        "date": "2023-12-24T00:00:00.000Z",
+        "category": "games",
+        "body": {
+          "raw": "\nThis game is amazing\n![The Witcher 3](/public/images/witcher3.webp)\n",
+          "html": "<p>This game is amazing\n<img src=\"/public/images/witcher3.webp\" alt=\"The Witcher 3\"></p>"
+        },
+        "_id": "post-nine.md",
+        "_raw": {
+          "sourceFilePath": "post-nine.md",
+          "sourceFileName": "post-nine.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-nine"
+        },
+        "type": "Post",
+        "slug": "post-nine"
+      },
+      "documentHash": "1692715145564",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-one.md": {
+      "document": {
+        "title": "Final Fantasy's whole BGM library",
+        "date": "2023-12-24T00:00:00.000Z",
+        "category": "music",
+        "body": {
+          "raw": "\nIt's like Witcher 3 but with machines instead of monsters.\n![Final Fantasy Music](/public/images/FFMusic.png)\n",
+          "html": "<p>It's like Witcher 3 but with machines instead of monsters.\n<img src=\"/public/images/FFMusic.png\" alt=\"Final Fantasy Music\"></p>"
+        },
+        "_id": "post-one.md",
+        "_raw": {
+          "sourceFilePath": "post-one.md",
+          "sourceFileName": "post-one.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-one"
+        },
+        "type": "Post",
+        "slug": "post-one"
+      },
+      "documentHash": "1692715149724",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-seven.md": {
+      "document": {
+        "title": "Horizon Series",
+        "date": "2023-12-24T00:00:00.000Z",
+        "category": "games",
+        "body": {
+          "raw": "\nThis series has some of the best music of any game series ever.\n![Horizon](/public/images/horizon.jpg)\n",
+          "html": "<p>This series has some of the best music of any game series ever.\n<img src=\"/public/images/horizon.jpg\" alt=\"Horizon\"></p>"
+        },
+        "_id": "post-seven.md",
+        "_raw": {
+          "sourceFilePath": "post-seven.md",
+          "sourceFileName": "post-seven.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-seven"
+        },
+        "type": "Post",
+        "slug": "post-seven"
+      },
+      "documentHash": "1692715153024",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-six.md": {
+      "document": {
+        "title": "Werewolves Within",
+        "date": "2023-12-24T00:00:00.000Z",
+        "category": "film",
+        "body": {
+          "raw": "\nSurprised at how much I like this film.\n![Werewolves](/public/images/werewolveswithin.jpg)\n",
+          "html": "<p>Surprised at how much I like this film.\n<img src=\"/public/images/werewolveswithin.jpg\" alt=\"Werewolves\"></p>"
+        },
+        "_id": "post-six.md",
+        "_raw": {
+          "sourceFilePath": "post-six.md",
+          "sourceFileName": "post-six.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-six"
+        },
+        "type": "Post",
+        "slug": "post-six"
+      },
+      "documentHash": "1692715156184",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-three.md": {
+      "document": {
+        "title": "Ninja Scroll",
+        "date": "2023-12-24T00:00:00.000Z",
+        "category": "film",
+        "body": {
+          "raw": "\nIt's a classic.\n![Ninja Scroll](/public/images/ninja.jpg)\n",
+          "html": "<p>It's a classic.\n<img src=\"/public/images/ninja.jpg\" alt=\"Ninja Scroll\"></p>"
+        },
+        "_id": "post-three.md",
+        "_raw": {
+          "sourceFilePath": "post-three.md",
+          "sourceFileName": "post-three.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-three"
+        },
+        "type": "Post",
+        "slug": "post-three"
+      },
+      "documentHash": "1692715159234",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    },
+    "post-two.md": {
+      "document": {
+        "title": "Werewolf By Night",
+        "date": "2023-12-24T00:00:00.000Z",
+        "category": "games",
+        "body": {
+          "raw": "\nMarvel needs to make more films like this.\n![Werewolf by Night](/public/images/werewolfbynight.png)\n",
+          "html": "<p>Marvel needs to make more films like this.\n<img src=\"/public/images/werewolfbynight.png\" alt=\"Werewolf by Night\"></p>"
+        },
+        "_id": "post-two.md",
+        "_raw": {
+          "sourceFilePath": "post-two.md",
+          "sourceFileName": "post-two.md",
+          "sourceFileDir": ".",
+          "contentType": "markdown",
+          "flattenedPath": "post-two"
+        },
+        "type": "Post",
+        "slug": "post-two"
+      },
+      "documentHash": "1692715162344",
+      "hasWarnings": false,
+      "documentTypeName": "Post"
+    }
+  }
+}

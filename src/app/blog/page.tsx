@@ -8,7 +8,7 @@ export default function BlogPage() {
     <div>
       <h2>My Posts</h2>
       <ul>
-        {posts.map((post) => {
+        {posts.map((post:any) => {
           return (
             <li key={post.slug}>
               <Link href={`/blog/${post.slug}`}>{post.title}</Link>

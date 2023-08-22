@@ -11,7 +11,7 @@ type BlogPostParams = {
 
 export function generateStaticParams() {
   const posts = getPosts();
-  return posts.map((post) => {
+  return posts.map((post:any) => {
     return {
       slug: post.slug,
     };

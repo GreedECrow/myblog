@@ -1,0 +1,19 @@
+{
+  "title": "Witcher 3",
+  "date": "2023-12-24T00:00:00.000Z",
+  "category": "games",
+  "body": {
+    "raw": "\nThis game is amazing\n![The Witcher 3](/public/images/witcher3.webp)\n",
+    "html": "<p>This game is amazing\n<img src=\"/public/images/witcher3.webp\" alt=\"The Witcher 3\"></p>"
+  },
+  "_id": "post-nine.md",
+  "_raw": {
+    "sourceFilePath": "post-nine.md",
+    "sourceFileName": "post-nine.md",
+    "sourceFileDir": ".",
+    "contentType": "markdown",
+    "flattenedPath": "post-nine"
+  },
+  "type": "Post",
+  "slug": "post-nine"
+}
