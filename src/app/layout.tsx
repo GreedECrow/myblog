@@ -2,6 +2,8 @@ import "./globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import Link from "next/link";
+import { ClerkProvider } from '@clerk/nextjs'
+import { UserButton } from "@clerk/nextjs";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -12,16 +14,19 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
+    <ClerkProvider>
     <html lang="en">
       <body className={`prose dark:prose-invert ${inter.className}`}>
         <header>
           <nav>
             <Link href="/">Home</Link>
             <Link href="/blog">Blog</Link>
+            <UserButton afterSignOutUrl="/"/>
           </nav>
         </header>
         {children}
       </body>
     </html>
+    </ClerkProvider>
   );
 }
