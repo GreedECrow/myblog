@@ -5,4 +5,5 @@ category: film
 ---
 
 It's a classic.
-![Ninja Scroll](/public/images/ninja.jpg)
+
+![Ninja Scroll](/images/ninja.jpg)

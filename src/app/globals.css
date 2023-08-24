@@ -22,8 +22,21 @@ nav{
   margin: 1rem;
 }
 
+Image{
+    display: flex;
+    justify-content: center;
+}
+
 li{
   margin: 1rem;
   list-style-type: none;
   background-color: rgb(115, 115, 115);
+}
+
+footer{
+  background-color: green;
+  color: black;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }

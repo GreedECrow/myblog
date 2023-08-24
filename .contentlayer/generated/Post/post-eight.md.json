@@ -3,8 +3,8 @@
   "date": "2023-12-24T00:00:00.000Z",
   "category": "games",
   "body": {
-    "raw": "\nThe best games.\n![Final Fantasy](/public/images/ffstorylogo.webp)\n",
-    "html": "<p>The best games.\n<img src=\"/public/images/ffstorylogo.webp\" alt=\"Final Fantasy\"></p>"
+    "raw": "\nThe best games.\n\n![Final Fantasy](/images/ffstorylogo.webp)\n",
+    "html": "<p>The best games.</p>\n<p><img src=\"/images/ffstorylogo.webp\" alt=\"Final Fantasy\"></p>"
   },
   "_id": "post-eight.md",
   "_raw": {

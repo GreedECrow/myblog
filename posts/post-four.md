@@ -6,5 +6,6 @@ category: music
 
 Never made even one bad song and did the best Legend of Zelda cover.
 
-https://youtu.be/eh_j9xrwUb0
-![SOAD](/public/images/soad.jpg)
+![video](https://youtu.be/eh_j9xrwUb0?si=hRbZjXJydBuiA7ou)
+
+![SOAD](/images/soad.jpg)

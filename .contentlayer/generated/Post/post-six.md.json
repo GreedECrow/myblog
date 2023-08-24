@@ -3,8 +3,8 @@
   "date": "2023-12-24T00:00:00.000Z",
   "category": "film",
   "body": {
-    "raw": "\nSurprised at how much I like this film.\n![Werewolves](/public/images/werewolveswithin.jpg)\n",
-    "html": "<p>Surprised at how much I like this film.\n<img src=\"/public/images/werewolveswithin.jpg\" alt=\"Werewolves\"></p>"
+    "raw": "\nSurprised at how much I like this film.\n\n![Werewolves](/images/werewolveswithin.jpg)\n",
+    "html": "<p>Surprised at how much I like this film.</p>\n<p><img src=\"/images/werewolveswithin.jpg\" alt=\"Werewolves\"></p>"
   },
   "_id": "post-six.md",
   "_raw": {

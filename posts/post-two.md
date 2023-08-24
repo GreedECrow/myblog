@@ -5,4 +5,5 @@ category: games
 ---
 
 Marvel needs to make more films like this.
-![Werewolf by Night](/public/images/werewolfbynight.png)
+
+![Werewolf by Night](/images/werewolfbynight.png)

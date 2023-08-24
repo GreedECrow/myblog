@@ -3,8 +3,8 @@
   "date": "2023-12-24T00:00:00.000Z",
   "category": "music",
   "body": {
-    "raw": "\nIt's like Witcher 3 but with machines instead of monsters.\n![Final Fantasy Music](/public/images/FFMusic.png)\n",
-    "html": "<p>It's like Witcher 3 but with machines instead of monsters.\n<img src=\"/public/images/FFMusic.png\" alt=\"Final Fantasy Music\"></p>"
+    "raw": "\nIt's like Witcher 3 but with machines instead of monsters.\n\n![Final Fantasy Music](/images/FFMusic.png)\n",
+    "html": "<p>It's like Witcher 3 but with machines instead of monsters.</p>\n<p><img src=\"/images/FFMusic.png\" alt=\"Final Fantasy Music\"></p>"
   },
   "_id": "post-one.md",
   "_raw": {

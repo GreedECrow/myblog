@@ -3,8 +3,8 @@
   "date": "2023-12-24T00:00:00.000Z",
   "category": "film",
   "body": {
-    "raw": "\nIt's a classic.\n![Ninja Scroll](/public/images/ninja.jpg)\n",
-    "html": "<p>It's a classic.\n<img src=\"/public/images/ninja.jpg\" alt=\"Ninja Scroll\"></p>"
+    "raw": "\nIt's a classic.\n\n![Ninja Scroll](/images/ninja.jpg)\n",
+    "html": "<p>It's a classic.</p>\n<p><img src=\"/images/ninja.jpg\" alt=\"Ninja Scroll\"></p>"
   },
   "_id": "post-three.md",
   "_raw": {

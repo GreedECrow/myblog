@@ -5,4 +5,5 @@ category: games
 ---
 
 This series has some of the best music of any game series ever.
-![Horizon](/public/images/horizon.jpg)
+
+![Horizon](/images/horizon.jpg)

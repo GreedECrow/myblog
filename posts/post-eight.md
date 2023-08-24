@@ -5,4 +5,5 @@ category: games
 ---
 
 The best games.
-![Final Fantasy](/public/images/ffstorylogo.webp)
+
+![Final Fantasy](/images/ffstorylogo.webp)

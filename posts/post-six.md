@@ -5,4 +5,5 @@ category: film
 ---
 
 Surprised at how much I like this film.
-![Werewolves](/public/images/werewolveswithin.jpg)
+
+![Werewolves](/images/werewolveswithin.jpg)

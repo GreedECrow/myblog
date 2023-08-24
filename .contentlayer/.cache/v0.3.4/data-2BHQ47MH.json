@@ -6,8 +6,8 @@
         "date": "2023-12-24T00:00:00.000Z",
         "category": "games",
         "body": {
-          "raw": "\nThe best games.\n![Final Fantasy](/public/images/ffstorylogo.webp)\n",
-          "html": "<p>The best games.\n<img src=\"/public/images/ffstorylogo.webp\" alt=\"Final Fantasy\"></p>"
+          "raw": "\nThe best games.\n\n![Final Fantasy](/images/ffstorylogo.webp)\n",
+          "html": "<p>The best games.</p>\n<p><img src=\"/images/ffstorylogo.webp\" alt=\"Final Fantasy\"></p>"
         },
         "_id": "post-eight.md",
         "_raw": {
@@ -20,7 +20,7 @@
         "type": "Post",
         "slug": "post-eight"
       },
-      "documentHash": "1692715133984",
+      "documentHash": "1692873756147",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -30,8 +30,8 @@
         "date": "2023-12-24T00:00:00.000Z",
         "category": "music",
         "body": {
-          "raw": "\nChap hop at it's finest.\n\n![Professor Elemental](/public/images/proffelem.jpg)\n",
-          "html": "<p>Chap hop at it's finest.</p>\n<p><img src=\"/public/images/proffelem.jpg\" alt=\"Professor Elemental\"></p>"
+          "raw": "\nChap hop at it's finest.\n\n![Professor Elemental](/images/proffelem.jpg)\n",
+          "html": "<p>Chap hop at it's finest.</p>\n<p><img src=\"/images/proffelem.jpg\" alt=\"Professor Elemental\"></p>"
         },
         "_id": "post-five.md",
         "_raw": {
@@ -44,7 +44,7 @@
         "type": "Post",
         "slug": "post-five"
       },
-      "documentHash": "1692800624092",
+      "documentHash": "1692873347007",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -54,8 +54,8 @@
         "date": "2023-12-24T00:00:00.000Z",
         "category": "music",
         "body": {
-          "raw": "\nNever made even one bad song and did the best Legend of Zelda cover.\n\nhttps://youtu.be/eh_j9xrwUb0\n![SOAD](/public/images/soad.jpg)\n",
-          "html": "<p>Never made even one bad song and did the best Legend of Zelda cover.</p>\n<p>https://youtu.be/eh_j9xrwUb0\n<img src=\"/public/images/soad.jpg\" alt=\"SOAD\"></p>"
+          "raw": "\nNever made even one bad song and did the best Legend of Zelda cover.\n\n![video](https://youtu.be/eh_j9xrwUb0?si=hRbZjXJydBuiA7ou)\n\n![SOAD](/images/soad.jpg)\n",
+          "html": "<p>Never made even one bad song and did the best Legend of Zelda cover.</p>\n<p><img src=\"https://youtu.be/eh_j9xrwUb0?si=hRbZjXJydBuiA7ou\" alt=\"video\"></p>\n<p><img src=\"/images/soad.jpg\" alt=\"SOAD\"></p>"
         },
         "_id": "post-four.md",
         "_raw": {
@@ -68,7 +68,7 @@
         "type": "Post",
         "slug": "post-four"
       },
-      "documentHash": "1692715141634",
+      "documentHash": "1692874407327",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -78,8 +78,8 @@
         "date": "2023-12-24T00:00:00.000Z",
         "category": "games",
         "body": {
-          "raw": "\nThis game is amazing\n![The Witcher 3](/public/images/witcher3.webp)\n",
-          "html": "<p>This game is amazing\n<img src=\"/public/images/witcher3.webp\" alt=\"The Witcher 3\"></p>"
+          "raw": "\nThis game is amazing\n\n![The Witcher 3](/images/witcher3.webp)\n",
+          "html": "<p>This game is amazing</p>\n<p><img src=\"/images/witcher3.webp\" alt=\"The Witcher 3\"></p>"
         },
         "_id": "post-nine.md",
         "_raw": {
@@ -92,7 +92,7 @@
         "type": "Post",
         "slug": "post-nine"
       },
-      "documentHash": "1692715145564",
+      "documentHash": "1692873801447",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -102,8 +102,8 @@
         "date": "2023-12-24T00:00:00.000Z",
         "category": "music",
         "body": {
-          "raw": "\nIt's like Witcher 3 but with machines instead of monsters.\n![Final Fantasy Music](/public/images/FFMusic.png)\n",
-          "html": "<p>It's like Witcher 3 but with machines instead of monsters.\n<img src=\"/public/images/FFMusic.png\" alt=\"Final Fantasy Music\"></p>"
+          "raw": "\nIt's like Witcher 3 but with machines instead of monsters.\n\n![Final Fantasy Music](/images/FFMusic.png)\n",
+          "html": "<p>It's like Witcher 3 but with machines instead of monsters.</p>\n<p><img src=\"/images/FFMusic.png\" alt=\"Final Fantasy Music\"></p>"
         },
         "_id": "post-one.md",
         "_raw": {
@@ -116,7 +116,7 @@
         "type": "Post",
         "slug": "post-one"
       },
-      "documentHash": "1692715149724",
+      "documentHash": "1692873803667",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -126,8 +126,8 @@
         "date": "2023-12-24T00:00:00.000Z",
         "category": "games",
         "body": {
-          "raw": "\nThis series has some of the best music of any game series ever.\n![Horizon](/public/images/horizon.jpg)\n",
-          "html": "<p>This series has some of the best music of any game series ever.\n<img src=\"/public/images/horizon.jpg\" alt=\"Horizon\"></p>"
+          "raw": "\nThis series has some of the best music of any game series ever.\n\n![Horizon](/images/horizon.jpg)\n",
+          "html": "<p>This series has some of the best music of any game series ever.</p>\n<p><img src=\"/images/horizon.jpg\" alt=\"Horizon\"></p>"
         },
         "_id": "post-seven.md",
         "_raw": {
@@ -140,7 +140,7 @@
         "type": "Post",
         "slug": "post-seven"
       },
-      "documentHash": "1692715153024",
+      "documentHash": "1692873805507",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -150,8 +150,8 @@
         "date": "2023-12-24T00:00:00.000Z",
         "category": "film",
         "body": {
-          "raw": "\nSurprised at how much I like this film.\n![Werewolves](/public/images/werewolveswithin.jpg)\n",
-          "html": "<p>Surprised at how much I like this film.\n<img src=\"/public/images/werewolveswithin.jpg\" alt=\"Werewolves\"></p>"
+          "raw": "\nSurprised at how much I like this film.\n\n![Werewolves](/images/werewolveswithin.jpg)\n",
+          "html": "<p>Surprised at how much I like this film.</p>\n<p><img src=\"/images/werewolveswithin.jpg\" alt=\"Werewolves\"></p>"
         },
         "_id": "post-six.md",
         "_raw": {
@@ -164,7 +164,7 @@
         "type": "Post",
         "slug": "post-six"
       },
-      "documentHash": "1692715156184",
+      "documentHash": "1692873807267",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -174,8 +174,8 @@
         "date": "2023-12-24T00:00:00.000Z",
         "category": "film",
         "body": {
-          "raw": "\nIt's a classic.\n![Ninja Scroll](/public/images/ninja.jpg)\n",
-          "html": "<p>It's a classic.\n<img src=\"/public/images/ninja.jpg\" alt=\"Ninja Scroll\"></p>"
+          "raw": "\nIt's a classic.\n\n![Ninja Scroll](/images/ninja.jpg)\n",
+          "html": "<p>It's a classic.</p>\n<p><img src=\"/images/ninja.jpg\" alt=\"Ninja Scroll\"></p>"
         },
         "_id": "post-three.md",
         "_raw": {
@@ -188,7 +188,7 @@
         "type": "Post",
         "slug": "post-three"
       },
-      "documentHash": "1692715159234",
+      "documentHash": "1692873808937",
       "hasWarnings": false,
       "documentTypeName": "Post"
     },
@@ -198,8 +198,8 @@
         "date": "2023-12-24T00:00:00.000Z",
         "category": "games",
         "body": {
-          "raw": "\nMarvel needs to make more films like this.\n![Werewolf by Night](/public/images/werewolfbynight.png)\n",
-          "html": "<p>Marvel needs to make more films like this.\n<img src=\"/public/images/werewolfbynight.png\" alt=\"Werewolf by Night\"></p>"
+          "raw": "\nMarvel needs to make more films like this.\n\n![Werewolf by Night](/images/werewolfbynight.png)\n",
+          "html": "<p>Marvel needs to make more films like this.</p>\n<p><img src=\"/images/werewolfbynight.png\" alt=\"Werewolf by Night\"></p>"
         },
         "_id": "post-two.md",
         "_raw": {
@@ -212,7 +212,7 @@
         "type": "Post",
         "slug": "post-two"
       },
-      "documentHash": "1692715162344",
+      "documentHash": "1692873810657",
       "hasWarnings": false,
       "documentTypeName": "Post"
     }

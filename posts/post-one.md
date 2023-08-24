@@ -5,4 +5,5 @@ category: music
 ---
 
 It's like Witcher 3 but with machines instead of monsters.
-![Final Fantasy Music](/public/images/FFMusic.png)
+
+![Final Fantasy Music](/images/FFMusic.png)

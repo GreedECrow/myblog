@@ -3,8 +3,8 @@
   "date": "2023-12-24T00:00:00.000Z",
   "category": "music",
   "body": {
-    "raw": "\nChap hop at it's finest.\n\n![Professor Elemental](/public/images/proffelem.jpg)\n",
-    "html": "<p>Chap hop at it's finest.</p>\n<p><img src=\"/public/images/proffelem.jpg\" alt=\"Professor Elemental\"></p>"
+    "raw": "\nChap hop at it's finest.\n\n![Professor Elemental](/images/proffelem.jpg)\n",
+    "html": "<p>Chap hop at it's finest.</p>\n<p><img src=\"/images/proffelem.jpg\" alt=\"Professor Elemental\"></p>"
   },
   "_id": "post-five.md",
   "_raw": {

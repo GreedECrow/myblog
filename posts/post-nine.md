@@ -5,4 +5,5 @@ category: games
 ---
 
 This game is amazing
-![The Witcher 3](/public/images/witcher3.webp)
+
+![The Witcher 3](/images/witcher3.webp)

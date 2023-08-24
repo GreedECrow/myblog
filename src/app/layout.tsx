@@ -4,8 +4,8 @@ import { Inter } from "next/font/google";
 import Link from "next/link";
 import { ClerkProvider } from "@clerk/nextjs";
 import { UserButton } from "@clerk/nextjs";
-import Wallpaper from "@/public/images/wallpaper.jpg";
-
+import Wallpaper from "@/../public/images/wallpaper.jpg";
+import Image from "next/image";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
@@ -31,8 +31,12 @@ export default function RootLayout({
             </nav>
           </header>
           {children}
-          <Image src={Wallpaper} alt="Wallpaper" placeholder="blur" />
-          <img src="../public/images/wallpaper.jpg" />
+          <Image
+            src={Wallpaper}
+            alt="Wallpaper"
+            placeholder="blur"
+          />
+          {/* <img src="../public/images/wallpaper.jpg" alt="wallpaper" /> */}
           <footer>
             <p>
               Now that you've reached the bottom of the page, we hope you've

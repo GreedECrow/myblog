@@ -3,8 +3,8 @@
   "date": "2023-12-24T00:00:00.000Z",
   "category": "music",
   "body": {
-    "raw": "\nNever made even one bad song and did the best Legend of Zelda cover.\n\nhttps://youtu.be/eh_j9xrwUb0\n![SOAD](/public/images/soad.jpg)\n",
-    "html": "<p>Never made even one bad song and did the best Legend of Zelda cover.</p>\n<p>https://youtu.be/eh_j9xrwUb0\n<img src=\"/public/images/soad.jpg\" alt=\"SOAD\"></p>"
+    "raw": "\nNever made even one bad song and did the best Legend of Zelda cover.\n\n![video](https://youtu.be/eh_j9xrwUb0?si=hRbZjXJydBuiA7ou)\n\n![SOAD](/images/soad.jpg)\n",
+    "html": "<p>Never made even one bad song and did the best Legend of Zelda cover.</p>\n<p><img src=\"https://youtu.be/eh_j9xrwUb0?si=hRbZjXJydBuiA7ou\" alt=\"video\"></p>\n<p><img src=\"/images/soad.jpg\" alt=\"SOAD\"></p>"
   },
   "_id": "post-four.md",
   "_raw": {
