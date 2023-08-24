@@ -35,8 +35,11 @@ export default function RootLayout({
             src={Wallpaper}
             alt="Wallpaper"
             placeholder="blur"
+            style={{
+              margin: "auto",
+            }}
           />
-          {/* <img src="../public/images/wallpaper.jpg" alt="wallpaper" /> */}
+          
           <footer>
             <p>
               Now that you've reached the bottom of the page, we hope you've

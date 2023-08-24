@@ -22,9 +22,8 @@ nav{
   margin: 1rem;
 }
 
-Image{
-    display: flex;
-    justify-content: center;
+image{
+  object-position: center;
 }
 
 li{
