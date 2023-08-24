@@ -4,6 +4,6 @@ date: 2023-12-24
 category: games
 ---
 
-This series has some of the best music of any game series ever.
+It's like Witcher 3 but with machines instead of monsters.
 
 ![Horizon](/images/horizon.jpg)

@@ -4,6 +4,6 @@ date: 2023-12-24
 category: music
 ---
 
-It's like Witcher 3 but with machines instead of monsters.
+Some of the best music that has ever been made for anything.
 
 ![Final Fantasy Music](/images/FFMusic.png)

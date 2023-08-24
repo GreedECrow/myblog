@@ -23,7 +23,12 @@ export default function RootLayout({
       <html lang="en">
         <body className={`prose dark:prose-invert ${inter.className}`}>
           <header>
-            <h1>A FANTASTIC LIST OF THINGS I LIKE</h1>
+
+
+            
+            <h1 class="sign">
+              A FANTASTIC LIST OF THINGS I LIKE
+              </h1>
             <nav>
               <Link href="/">Home</Link>
               <Link href="/blog"> Blog</Link>
