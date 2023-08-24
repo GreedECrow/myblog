@@ -7,4 +7,23 @@ body {
   text-align: center;
   flex-direction: column;
   justify-content: center;
+  font-weight: bolder;
+}
+
+header{
+  background-color: green;
+  color: black;
+  text-decoration: underline ;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  margin: 1rem;
+}
+
+li{
+  margin: 1rem;
+  list-style-type: none;
+  background-color: rgb(115, 115, 115);
 }

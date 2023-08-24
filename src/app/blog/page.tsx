@@ -7,6 +7,7 @@ export default function BlogPage() {
   return (
     <div>
       <h2>My Posts</h2>
+      <p>For your viewing pleasure, please enjoy this pretty list of random things that I watch/play/listen to far too much.</p>
       <ul>
         {posts.map((post:any) => {
           return (

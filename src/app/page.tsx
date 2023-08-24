@@ -1,8 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>My posts</h1>
-      <p>Welcome to my blog</p>
+      <p>Welcome to my blog. A list of the best things that I'm currently loosing my mind about.</p>
     </main>
   );
 }
